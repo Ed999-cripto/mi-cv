@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(19, 17, 17);    
+}
+
+nav{
+    width: 1500px;
+    height: 48px;
+    background-color:rgb(20, 20, 19);
+    margin: 0 0;
+    display: inline;
+    float: right;
+}
+
+.btnacceder{
+    width: 53.1;
+    height: 16;
+    background-color: #93baf9;
+}

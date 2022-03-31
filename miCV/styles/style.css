@@ -1,3 +1,23 @@
+:root{
+    background-color: rgba(34, 37, 36, 0.226);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+
+.perfil{
+    display: inline-block;
+    margin-left: 85rem;
+    
+}
+
+.image-profile{
+    border-radius: 100rem;
+    width: 120px;
+    height: 100px;
+    object-fit: cover;
+    object-position: 50% 50%
+   
+}
 .presentacion{
     text-align: center;
     font-style: italic;
@@ -7,4 +27,20 @@
 .contacto{
     text-align: center;
     font-style: italic;
+}
+.name{
+    border-radius: 100rem;
+    width: 320px;
+    height: 300px;
+    object-fit: cover;
+    object-position: 50% 50%;}
+
+.formacion{
+    text-align: center;
+}
+
+.skills{
+    text-decoration: solid;
+    text-align: center;
+
 }
